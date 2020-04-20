@@ -12,6 +12,9 @@ import com.tencent.mm.opensdk.modelmsg.SendAuth;
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
     private Button but;
+    //135646213
+    //5464313468746
+    //56462.1234654
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
